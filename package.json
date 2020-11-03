@@ -1,0 +1,16 @@
+{
+ "name": "video_js",
+ "version": "1.0.0",
+ "description": "Proyecto de video con js",
+ "license": "MIT",
+ "author": "Isaac Martí",
+ "keywords": [
+  "platzi"
+ ],
+ "scripts": {
+  "start": "live-server"
+ },
+ "devDependencies": {
+  "live-server": "^1.2.1"
+ }
+}
